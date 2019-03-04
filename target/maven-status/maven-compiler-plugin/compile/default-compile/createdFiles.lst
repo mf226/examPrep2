@@ -1,0 +1,5 @@
+rest\ApplicationConfig.class
+data\Generator.class
+entity\Person.class
+entity\Person_.class
+rest\GenericResource.class
